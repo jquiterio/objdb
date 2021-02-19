@@ -1,2 +1,2 @@
 # objdb
-object
+object: objdb.dev
